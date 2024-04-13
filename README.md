@@ -1,2 +1,3 @@
 # NeverMind
-This is a Git hub Repository
+This is a Github Repository
+Author-Mahidunnobi
